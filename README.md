@@ -19,5 +19,5 @@ each entry shows:
 # App preview
 
 <br/>
-<img src="/sound-of-Silence-screenshot.png?raw=true" width="900"/>
+<img src="/sound-of-Silence-screenshot.png?raw=true" width="950"/>
 <br/>
