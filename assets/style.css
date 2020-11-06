@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(39, 38, 37);
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  margin-top: 3rem;
+}
+img {
+  margin: 0 0.3rem;
+}
+
+.thead,
+.track {
+  border-bottom: 1px solid rgb(68, 68, 68);
+  margin: 1rem 0 !important;
+}
+
+.thead {
+  border-top: 1px solid rgb(68, 68, 68);
+  color: gray;
+}
+
+@media screen and (max-width: 767px) {
+  .thead {
+    display: none;
+  }
+  div.counter.row.m-1 {
+    margin-bottom: 2rem !important;
+  }
+  h4 {
+    margin-left: 0.5rem;
+  }
+}

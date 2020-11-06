@@ -1,0 +1,19 @@
+{
+  "name": "sound-of-silence",
+  "version": "1.0.0",
+  "description": "### The Sound of Silence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaiaGaiaGaia/sound-of-silence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaiaGaiaGaia/sound-of-silence/issues"
+  },
+  "homepage": "https://github.com/GaiaGaiaGaia/sound-of-silence#readme"
+}
