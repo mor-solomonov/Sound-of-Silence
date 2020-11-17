@@ -3,7 +3,7 @@ let liveCollection;
 const render = () => {
     document.querySelector('.counter').textContent = `There are ${
         Object.keys(liveCollection).length
-        } tracks in the list with the title \"Sound of Silence\"`;
+        } tracks in the list with the name \'Sound of Silence\'`;
 
     renderCollection = liveCollection
         .map(singleTrack => {

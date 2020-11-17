@@ -907,45 +907,6 @@ const music = [
     {
         wrapperType: "track",
         kind: "song",
-        artistId: 138226712,
-        collectionId: 486040153,
-        trackId: 486040196,
-        artistName: "Fun.",
-        collectionName: "Some Nights",
-        trackName: "Carry On",
-        collectionCensoredName: "Some Nights",
-        trackCensoredName: "Carry On",
-        artistViewUrl: "https://itunes.apple.com/us/artist/fun/138226712?uo=4",
-        collectionViewUrl:
-            "https://itunes.apple.com/us/album/carry-on/486040153?i=486040196&uo=4",
-        trackViewUrl:
-            "https://itunes.apple.com/us/album/carry-on/486040153?i=486040196&uo=4",
-        previewUrl:
-            "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/1d/d8/c2/mzm.uotvyknw.aac.p.m4a",
-        artworkUrl30:
-            "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c0/5d/d4/c05dd415-6a49-241c-1814-7e66ba882964/source/30x30bb.jpg",
-        artworkUrl60:
-            "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c0/5d/d4/c05dd415-6a49-241c-1814-7e66ba882964/source/60x60bb.jpg",
-        artworkUrl100:
-            "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/c0/5d/d4/c05dd415-6a49-241c-1814-7e66ba882964/source/100x100bb.jpg",
-        collectionPrice: 9.99,
-        trackPrice: 1.29,
-        releaseDate: "2012-02-21T08:00:00Z",
-        collectionExplicitness: "explicit",
-        trackExplicitness: "notExplicit",
-        discCount: 1,
-        discNumber: 1,
-        trackCount: 11,
-        trackNumber: 4,
-        trackTimeMillis: 278373,
-        country: "USA",
-        currency: "USD",
-        primaryGenreName: "Alternative",
-        isStreamable: true
-    },
-    {
-        wrapperType: "track",
-        kind: "song",
         artistId: 804387888,
         collectionId: 458076120,
         trackId: 458076125,
@@ -1353,46 +1314,6 @@ const music = [
     {
         wrapperType: "track",
         kind: "song",
-        artistId: 341352039,
-        collectionId: 625293602,
-        trackId: 625293869,
-        artistName: "Sound of Silence",
-        collectionName: "On That Train",
-        trackName: "How's the World Is Treating You",
-        collectionCensoredName: "On That Train",
-        trackCensoredName: "How's the World Is Treating You",
-        artistViewUrl:
-            "https://itunes.apple.com/us/artist/sound-of-silence/341352039?uo=4",
-        collectionViewUrl:
-            "https://itunes.apple.com/us/album/hows-the-world-is-treating-you/625293602?i=625293869&uo=4",
-        trackViewUrl:
-            "https://itunes.apple.com/us/album/hows-the-world-is-treating-you/625293602?i=625293869&uo=4",
-        previewUrl:
-            "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/3c/f2/82/3cf2821c-e5ea-7f2b-3bf0-39ec36b94e95/mzaf_4339261935332423124.plus.aac.p.m4a",
-        artworkUrl30:
-            "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1b/98/7c/1b987cf9-3b66-316c-26b7-e1c18524bd5e/source/30x30bb.jpg",
-        artworkUrl60:
-            "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1b/98/7c/1b987cf9-3b66-316c-26b7-e1c18524bd5e/source/60x60bb.jpg",
-        artworkUrl100:
-            "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1b/98/7c/1b987cf9-3b66-316c-26b7-e1c18524bd5e/source/100x100bb.jpg",
-        collectionPrice: 9.99,
-        trackPrice: 0.99,
-        releaseDate: "2013-03-22T07:00:00Z",
-        collectionExplicitness: "notExplicit",
-        trackExplicitness: "notExplicit",
-        discCount: 1,
-        discNumber: 1,
-        trackCount: 13,
-        trackNumber: 2,
-        trackTimeMillis: 206987,
-        country: "USA",
-        currency: "USD",
-        primaryGenreName: "Pop",
-        isStreamable: false
-    },
-    {
-        wrapperType: "track",
-        kind: "song",
         artistId: 73220595,
         collectionId: 265650560,
         trackId: 265650823,
@@ -1595,89 +1516,6 @@ const music = [
     {
         wrapperType: "track",
         kind: "song",
-        artistId: 341352039,
-        collectionId: 815643255,
-        trackId: 815643259,
-        artistName: "Sound of Silence",
-        collectionName: "El Anochecer",
-        trackName: "Día",
-        collectionCensoredName: "El Anochecer",
-        trackCensoredName: "Día",
-        artistViewUrl:
-            "https://itunes.apple.com/us/artist/sound-of-silence/341352039?uo=4",
-        collectionViewUrl:
-            "https://itunes.apple.com/us/album/d%C3%ADa/815643255?i=815643259&uo=4",
-        trackViewUrl:
-            "https://itunes.apple.com/us/album/d%C3%ADa/815643255?i=815643259&uo=4",
-        previewUrl:
-            "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/67/46/af/6746af2b-22ce-18cc-a90a-fb41d228a282/mzaf_7405263000802575338.plus.aac.p.m4a",
-        artworkUrl30:
-            "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/63/47/ec/6347ec63-da1b-4c7e-e31d-44f3e1468ef1/source/30x30bb.jpg",
-        artworkUrl60:
-            "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/63/47/ec/6347ec63-da1b-4c7e-e31d-44f3e1468ef1/source/60x60bb.jpg",
-        artworkUrl100:
-            "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/63/47/ec/6347ec63-da1b-4c7e-e31d-44f3e1468ef1/source/100x100bb.jpg",
-        collectionPrice: 9.9,
-        trackPrice: 0.99,
-        releaseDate: "2013-10-22T07:00:00Z",
-        collectionExplicitness: "notExplicit",
-        trackExplicitness: "notExplicit",
-        discCount: 1,
-        discNumber: 1,
-        trackCount: 10,
-        trackNumber: 1,
-        trackTimeMillis: 136840,
-        country: "USA",
-        currency: "USD",
-        primaryGenreName: "Metal",
-        isStreamable: true
-    },
-    {
-        wrapperType: "track",
-        kind: "song",
-        artistId: 1398663741,
-        collectionId: 1416996687,
-        trackId: 1416997105,
-        artistName: "ALL BGM CHANNEL & Sound of Silence",
-        collectionName:
-            "Aroma Relaxation BGM - Music for Relaxation and Sleeping-",
-        trackName: "Healing Sleep",
-        collectionCensoredName:
-            "Aroma Relaxation BGM - Music for Relaxation and Sleeping-",
-        trackCensoredName: "Healing Sleep",
-        collectionArtistName: "ALL BGM CHANNEL",
-        artistViewUrl:
-            "https://itunes.apple.com/us/artist/all-bgm-channel/1398663741?uo=4",
-        collectionViewUrl:
-            "https://itunes.apple.com/us/album/healing-sleep/1416996687?i=1416997105&uo=4",
-        trackViewUrl:
-            "https://itunes.apple.com/us/album/healing-sleep/1416996687?i=1416997105&uo=4",
-        previewUrl:
-            "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/33/b2/58/33b258a6-7185-797d-eadc-5ec59381840a/mzaf_2293698895098166408.plus.aac.p.m4a",
-        artworkUrl30:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/34/8a/a2/348aa224-7741-6910-9fb3-f0609a727adb/source/30x30bb.jpg",
-        artworkUrl60:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/34/8a/a2/348aa224-7741-6910-9fb3-f0609a727adb/source/60x60bb.jpg",
-        artworkUrl100:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/34/8a/a2/348aa224-7741-6910-9fb3-f0609a727adb/source/100x100bb.jpg",
-        collectionPrice: 5.99,
-        trackPrice: 1.29,
-        releaseDate: "2018-07-27T07:00:00Z",
-        collectionExplicitness: "notExplicit",
-        trackExplicitness: "notExplicit",
-        discCount: 1,
-        discNumber: 1,
-        trackCount: 20,
-        trackNumber: 9,
-        trackTimeMillis: 129750,
-        country: "USA",
-        currency: "USD",
-        primaryGenreName: "World",
-        isStreamable: true
-    },
-    {
-        wrapperType: "track",
-        kind: "song",
         artistId: 250981599,
         collectionId: 255050679,
         trackId: 255050687,
@@ -1763,48 +1601,6 @@ const music = [
     {
         wrapperType: "track",
         kind: "song",
-        artistId: 419944559,
-        collectionId: 650864146,
-        trackId: 650864413,
-        artistName: "Mac Miller",
-        collectionName: "Watching Movies with the Sound Off (Deluxe Edition)",
-        trackName: "Objects In the Mirror",
-        collectionCensoredName:
-            "Watching Movies with the Sound Off (Deluxe Edition)",
-        trackCensoredName: "Objects In the Mirror",
-        artistViewUrl:
-            "https://itunes.apple.com/us/artist/mac-miller/419944559?uo=4",
-        collectionViewUrl:
-            "https://itunes.apple.com/us/album/objects-in-the-mirror/650864146?i=650864413&uo=4",
-        trackViewUrl:
-            "https://itunes.apple.com/us/album/objects-in-the-mirror/650864146?i=650864413&uo=4",
-        previewUrl:
-            "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/be/9b/9a/be9b9aa9-0534-3e45-3ba6-e2117264d6d5/mzaf_5035509904151536350.plus.aac.p.m4a",
-        artworkUrl30:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/fd/bd/17/fdbd1796-3fe8-4a1d-3db3-095594b4baa5/source/30x30bb.jpg",
-        artworkUrl60:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/fd/bd/17/fdbd1796-3fe8-4a1d-3db3-095594b4baa5/source/60x60bb.jpg",
-        artworkUrl100:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/fd/bd/17/fdbd1796-3fe8-4a1d-3db3-095594b4baa5/source/100x100bb.jpg",
-        collectionPrice: 9.99,
-        trackPrice: 1.29,
-        releaseDate: "2013-06-18T07:00:00Z",
-        collectionExplicitness: "explicit",
-        trackExplicitness: "explicit",
-        discCount: 1,
-        discNumber: 1,
-        trackCount: 19,
-        trackNumber: 8,
-        trackTimeMillis: 259144,
-        country: "USA",
-        currency: "USD",
-        primaryGenreName: "Hip-Hop/Rap",
-        contentAdvisoryRating: "Explicit",
-        isStreamable: true
-    },
-    {
-        wrapperType: "track",
-        kind: "song",
         artistId: 691933961,
         collectionId: 1091053341,
         trackId: 1091053344,
@@ -1882,46 +1678,6 @@ const music = [
         country: "USA",
         currency: "USD",
         primaryGenreName: "Soundtrack",
-        isStreamable: true
-    },
-    {
-        wrapperType: "track",
-        kind: "song",
-        artistId: 277228393,
-        collectionId: 903055934,
-        trackId: 903055976,
-        artistName: "The Script",
-        collectionName: "No Sound Without Silence",
-        trackName: "Army of Angels",
-        collectionCensoredName: "No Sound Without Silence",
-        trackCensoredName: "Army of Angels",
-        artistViewUrl:
-            "https://itunes.apple.com/us/artist/the-script/277228393?uo=4",
-        collectionViewUrl:
-            "https://itunes.apple.com/us/album/army-of-angels/903055934?i=903055976&uo=4",
-        trackViewUrl:
-            "https://itunes.apple.com/us/album/army-of-angels/903055934?i=903055976&uo=4",
-        previewUrl:
-            "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/56/ec/46/56ec4632-3894-4c28-6ffa-82e342dd44d0/mzaf_7598477204759660933.plus.aac.p.m4a",
-        artworkUrl30:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/bc/2b/3a/bc2b3a08-876f-21d1-13d4-81de5bc5360b/source/30x30bb.jpg",
-        artworkUrl60:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/bc/2b/3a/bc2b3a08-876f-21d1-13d4-81de5bc5360b/source/60x60bb.jpg",
-        artworkUrl100:
-            "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/bc/2b/3a/bc2b3a08-876f-21d1-13d4-81de5bc5360b/source/100x100bb.jpg",
-        collectionPrice: 9.99,
-        trackPrice: 1.29,
-        releaseDate: "2014-09-12T07:00:00Z",
-        collectionExplicitness: "notExplicit",
-        trackExplicitness: "notExplicit",
-        discCount: 1,
-        discNumber: 1,
-        trackCount: 10,
-        trackNumber: 7,
-        trackTimeMillis: 238200,
-        country: "USA",
-        currency: "USD",
-        primaryGenreName: "Pop",
         isStreamable: true
     },
     {

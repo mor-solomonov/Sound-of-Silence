@@ -5,7 +5,14 @@ body {
 }
 
 h1 {
+  font-family: 'Kalam', cursive;
   margin-top: 3rem;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: 'Kalam', cursive;
+  font-weight: 700;
 }
 img {
   margin: 0 0.3rem;
