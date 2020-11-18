@@ -5,14 +5,12 @@ body {
 }
 
 h1 {
-  font-family: 'Kalam', cursive;
+  font-family: 'Questrial', sans-serif;
   margin-top: 3rem;
-  font-weight: 700;
 }
 
 h4 {
-  font-family: 'Kalam', cursive;
-  font-weight: 700;
+  font-family: 'Questrial', sans-serif;
 }
 img {
   margin: 0 0.3rem;
