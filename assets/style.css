@@ -4,6 +4,16 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+body > main > div.container > div.counter.row.m-1 {
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 1.3rem;
+}
+
+#output {
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 1.4rem;
+}
+
 h1 {
   font-family: 'Montserrat', sans-serif;
   margin-top: 5rem;
@@ -27,6 +37,13 @@ img {
   color: gray;
 }
 
+.container {
+  margin-top: 2rem;
+}
+
+.filter {
+  margin-top: 2rem;
+}
 @media screen and (max-width: 767px) {
   .thead {
     display: none;
