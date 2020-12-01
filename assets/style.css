@@ -8,6 +8,9 @@ body > main > div.container > div.counter.row.m-1 {
   font-family: 'Baloo Tamma 2', cursive;
   font-size: 1.3rem;
 }
+h1 {
+  font-size: 3rem;
+}
 
 .fa-search {
   font-size: 1.3rem;
@@ -22,7 +25,7 @@ body > main > div.container > div.counter.row.m-1 {
 
 #output {
   font-family: 'Baloo Tamma 2', cursive;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 
 h1 {
