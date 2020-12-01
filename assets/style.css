@@ -9,6 +9,17 @@ body > main > div.container > div.counter.row.m-1 {
   font-size: 1.3rem;
 }
 
+.fa-search {
+  font-size: 1.3rem;
+  margin-right: 0.2rem;
+}
+#filter-input[type='text'] {
+  font-family: 'Baloo Tamma 2', cursive;
+
+  padding-top: 6px;
+  padding-left: 0.5rem;
+}
+
 #output {
   font-family: 'Baloo Tamma 2', cursive;
   font-size: 1.4rem;
